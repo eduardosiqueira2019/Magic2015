@@ -2,7 +2,7 @@
 Projeto em Unity - jogo estilo beating up (Demo com uma fase completa)
 
 
-- Teclas de controles padrões do jogo :
+- Teclas de controles padrões do jogo (compatível também com joystick):
 
 "Alt" esquerdo: golpe (físico)
 "Ctrl" esquerdo: magia   (magias variam conforme quantidade de mana de seu personagem)
