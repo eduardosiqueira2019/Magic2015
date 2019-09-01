@@ -1,4 +1,4 @@
-# Magic2015
+# Magic2015  (após descompactar serão gerados um executável e uma pasta chamada Magic2015_Data. Deixem sempre os dois juntos)
 Projeto em Unity - jogo estilo beating up (Demo com uma fase completa)
 
 
