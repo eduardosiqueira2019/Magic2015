@@ -4,6 +4,9 @@ Projeto em Unity - jogo estilo beating up (Demo com uma fase completa)
 
 - Teclas de controles padrões do jogo (compatível também com joystick):
 
+- Resolução máxima para jogar: 1280 x 800. 
+- No momento de definir a resolução (Screen Resolution), coloque a maior que aparecer no combo, mas que não ultrapasse 1280 x 800.
+
 "Alt" esquerdo: golpe (físico)
 "Ctrl" esquerdo: magia   (magias variam conforme quantidade de mana de seu personagem)
 "Z" : magia especial.
